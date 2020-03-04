@@ -1,0 +1,25 @@
+Name	Cost	Damage	Health	Region	Skill	Ability	Condition
+Lucian	2	3	2	Demacia	Quick Attack		I've seen 4+ allies or an alied Senna, Sentinel of Light die.
+Heimerdinger	5	1	3	Piltover & Zaun		When you cast a spell, create a Fleeting Turret in hand with equal cost. It costs 0 this round.	I've seen you summon 12+ Power of Turrets.
+Braum	3	0	5	Freljord	Challenger,Regeneration		I've survived 10 total damage.
+Darius	6	6	5	Noxus	Overwhelm		The enemy Nexus has 10 or less Health.
+Jinx	4	4	3	Piltover & Zaun	Quick Attack		Your hand is empty.
+Fiora	3	3	3	Demacia	Challenger		I've killed 2 enemies.
+Elise	2	2	3	Shadow Isles	Fearsome	Attack: Summon an attacking Spiderling	Start of Round: You have 3+ other Spiders.
+Kalista	3	4	2	Shadow Isles	Fearsome	Play: I bond with an Ally. Grant it +2/+0 while we are bonded.	I've seen 3+ allies die.
+Ashe	4	5	3	Freljord		Attack: Frostbite the Strongest enemy.	You Frostbite 5+ enemies. Then create a Crystal Arrow next round.
+Draven	3	3	3	Noxus	Quick Attack	Play or Strike: Create a Spinning Axe in hand.	I've struck twice with a Spinning Axe.
+Ezreal	3	1	3	Piltover & Zaun	Elusive	Nexus Strike: Create a Fleeting Mystic Shot in hand.	You've targeted enemy units 8+ times.
+Thresh	5	3	6	Shadow Isles	Challenger		I've seen 6+ units die.
+Teemo	1	1	1	Piltover & Zaun	Elusive	Nexus Strike: Plant 5 Poison Puffcaps on random cards in the enemy deck.	You've planted 15+ Poison Puffcaps.
+Yasuo	4	4	3	Ionia	Quick Attack	When you Stun or Recall an enemy, I deal 2 to it.	You Stun or Recall 6+ units.
+Zed	3	3	2	Ionia	Quick Attack	Attack: Create an attacking Living Shadow with my stats.	My shadows and I have struck the enemy Nexus twice.
+Shen	4	2	5	Ionia		Support: Give my supported ally Barrier.	I've seen allies gain Barrier 4+ times.
+Karma	5	4	3	Ionia		End of Round: Create a random spell in hand.	You're Enlightened.
+Tryndamere	8	8	4	Freljord	Overwhelm		If I would die, I Level Up instead.
+Katarina	3	3	2	Noxus	Quick Attack		When I've struck, then Recall me.
+Vladimir	5	5	5	Noxus		Attack: For each other attacking ally, deal 1 to it and 1 to the enemy Nexus.	You've had 6+ allies survive damage.
+Hecarim	6	4	6	Shadow Isles	Overwhelm	Attack: Summon 2 attacking Spectral Rider.	You've attacked with 8+ Ephemeral allies.
+Anivia	7	2	4	Freljord		Attack: Deal 1 to all enemies. Last Breath: Revive me transformed into Eggnivia.	You're Enlightened.
+Lux	6	3	4	Demacia	Barrier		I've seen you cast 6+ mana of spells. Then create a Fleeting Final Spark in hand.
+Garen	5	5	5	Demacia	Regeneration		I've struck twice.
